@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SOH_Report xmlns="urn:microsoft-dynamics-nav/xmlports/x50209">
+  <SOH_Line>
+    <MemberId>14GFWBR</MemberId>
+    <ContractCode>CC202</ContractCode>
+    <DocumentType>SOH</DocumentType>
+    <DocumentNo>14GFWBRR-SW-19022019-1PM</DocumentNo>
+    <LineNo>1</LineNo>
+    <Date>19/02/2019</Date>
+    <ItemNo>SW10003</ItemNo>
+    <SalesUOM>CTN</SalesUOM>
+    <ETADeliveryDate>28/02/2019</ETADeliveryDate>
+    <Comments>This is a Line No.1</Comments>
+    <StockOnHandQuantity>99</StockOnHandQuantity>
+    <StockOnOrderQuantity>100</StockOnOrderQuantity>
+  </SOH_Line>
+  <SOH_Line>
+    <MemberId>14GFWBR</MemberId>
+    <ContractCode>CC202</ContractCode>
+    <DocumentType>SOH</DocumentType>
+    <DocumentNo>14GFWBRR-SW-19022019-1PM</DocumentNo>
+    <LineNo>2</LineNo>
+    <Date>19/02/2019</Date>
+    <ItemNo>SW10003</ItemNo>
+    <SalesUOM>CTN</SalesUOM>
+    <ETADeliveryDate>28/02/2019</ETADeliveryDate>
+    <Comments>This is a Line No.2</Comments>
+    <StockOnHandQuantity>55.00</StockOnHandQuantity>
+    <StockOnOrderQuantity>123.00</StockOnOrderQuantity>
+  </SOH_Line>
+  <SOH_Line>
+    <MemberId>14GFWBR</MemberId>
+    <ContractCode>CC202</ContractCode>
+    <DocumentType>SOH</DocumentType>
+    <DocumentNo>14GFWBRR-SW-19022019-1PM</DocumentNo>
+    <LineNo>3</LineNo>
+    <Date>19/02/2019</Date>
+    <ItemNo>SW10003</ItemNo>
+    <SalesUOM>CTN</SalesUOM>
+    <ETADeliveryDate>28/02/2019</ETADeliveryDate>
+    <Comments>This is a Line No.3</Comments>
+    <StockOnHandQuantity>112.00</StockOnHandQuantity>
+    <StockOnOrderQuantity>113.00</StockOnOrderQuantity>
+  </SOH_Line>
+</SOH_Report>
